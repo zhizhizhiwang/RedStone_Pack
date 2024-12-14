@@ -3,7 +3,7 @@
   "author": "vcmux",
   "version": "2.0",
   "description": "qb红石设计社整合包",
-  "fileApi": "https://gitee.com/zhizhizhiwang_home/redstone_pack/raw/master/",
+  "fileApi": "https://redstone-pack.pages.dev",
   "files": [
     {
       "path": "hmclversion.cfg",
