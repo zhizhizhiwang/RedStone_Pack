@@ -1,10 +1,302 @@
 {
   "name": "RedStonePack",
   "author": "vcmux",
-  "version": "2.0",
-  "description": "qb红石设计社整合包",
+  "version": "3.0",
+  "description": "",
   "fileApi": "https://download.zhizhiwang.us.kg/RedStonePack",
   "files": [
+    {
+      "path": "config/advanced-xray-fabric/blocks.json",
+      "hash": "97d170e1550eee4afc0af065b78cda302a97674c"
+    },
+    {
+      "path": "config/advanced-xray-fabric/settings.json",
+      "hash": "66a57b3ead9686fb14b1c48399f9763166e0c597"
+    },
+    {
+      "path": "config/advancementinfo.json5",
+      "hash": "1bbc4d83d98beefbc7ffb1094e751f45fe483819"
+    },
+    {
+      "path": "config/c2me.toml",
+      "hash": "958b0cd2f1ab4b56bf7d0402891b5b3d831c3373"
+    },
+    {
+      "path": "config/chat_heads.json5",
+      "hash": "54fb55039959a3a24af55fc36792534696b61668"
+    },
+    {
+      "path": "config/computercraft-client.toml",
+      "hash": "6b6bb1618a2bbc35d00549533ea7803d69c73292"
+    },
+    {
+      "path": "config/configured/config.json",
+      "hash": "5ebc3001e25e4337a0b3bf3e160ac30fcd8da5cd"
+    },
+    {
+      "path": "config/configured-fixes/config.json",
+      "hash": "ad11c22e58c63bdb714012e7ab077e8151d9f548"
+    },
+    {
+      "path": "config/create-client.toml",
+      "hash": "af601fd7e150236bd12b22bc92b86b3953ca2e84"
+    },
+    {
+      "path": "config/create-common.toml",
+      "hash": "eeb60a2bebe041d74118246f0353028f23c82242"
+    },
+    {
+      "path": "config/DistantHorizons.toml",
+      "hash": "f0e236968d52bfd9105b7451b0196b78bbdd8e9a"
+    },
+    {
+      "path": "config/do_a_barrel_roll-client.json",
+      "hash": "e654c27e5e0ca929ff5858393920fe7008271e68"
+    },
+    {
+      "path": "config/do_a_barrel_roll-server.json",
+      "hash": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "config/emi.css",
+      "hash": "bb7089057324e2f3053546f2eacedd89948287d2"
+    },
+    {
+      "path": "config/entityculling.json",
+      "hash": "b3a71194e960bf326883a019b0287b8a85943891"
+    },
+    {
+      "path": "config/fabric/indigo-renderer.properties",
+      "hash": "12fc78293fcfbf39ac2033acc3d804e8d5bc5fc2"
+    },
+    {
+      "path": "config/farmersdelight-client.toml",
+      "hash": "922ef1cdf87795d0134ca8c0c4b1a9eb290f0ec6"
+    },
+    {
+      "path": "config/farmersdelight-common.toml",
+      "hash": "2035ae7d42bc022e3a75369c6f469ef9622eb387"
+    },
+    {
+      "path": "config/flywheel.json",
+      "hash": "0bacb5959ae82334b64b71a88a178b368c60dae5"
+    },
+    {
+      "path": "config/forgeconfigapiport.toml",
+      "hash": "37d9782f7c1a42a52bee3b6702eede79663518db"
+    },
+    {
+      "path": "config/immediatelyfast.json",
+      "hash": "adcb21b0ad5f7f1c124517ff64fc701a737e4ea1"
+    },
+    {
+      "path": "config/indium-renderer.properties",
+      "hash": "c2d239c3a2a20039d6e5056da7b9465b9c142e29"
+    },
+    {
+      "path": "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json",
+      "hash": "2bedb4d58a778b937dd9da01c50a46af9887709b"
+    },
+    {
+      "path": "config/inventoryprofilesnext/inventoryprofiles.json",
+      "hash": "58b81b870399a90daad1a3249c68c2d5bd18abf9"
+    },
+    {
+      "path": "config/inventoryprofilesnext/one.zhizhiwang.us.kg\u002633334/prev-villager-trading-config.json",
+      "hash": "e2593acfcb9d84fa2c050b145242d28cc28fb25f"
+    },
+    {
+      "path": "config/inventoryprofilesnext/one.zhizhiwang.us.kg\u002633334/villager-trading-config.json",
+      "hash": "e2593acfcb9d84fa2c050b145242d28cc28fb25f"
+    },
+    {
+      "path": "config/inventoryprofilesnext/villager-trading-config.json",
+      "hash": "e2593acfcb9d84fa2c050b145242d28cc28fb25f"
+    },
+    {
+      "path": "config/iris.properties",
+      "hash": "5f49e51f8df59fe38d53d678c0cfc81294fa9897"
+    },
+    {
+      "path": "config/jei/blacklist.cfg",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "config/jei/jei-client.ini",
+      "hash": "984de2f677016ffe7019b4233492dbb1afd4dcb6"
+    },
+    {
+      "path": "config/jei/jei-colors.ini",
+      "hash": "a9467c371d970f3bb88284e5878460e052589fc1"
+    },
+    {
+      "path": "config/jei/jei-debug.ini",
+      "hash": "f9bc860103810eed50e7e116dd960c2cb961f55e"
+    },
+    {
+      "path": "config/jei/jei-mod-id-format.ini",
+      "hash": "463229eb371eb1ddedf018aca6199c85267b41f2"
+    },
+    {
+      "path": "config/jei/recipe-category-sort-order.ini",
+      "hash": "7f92cdf8c2af2b0376dfc5d29d794f8e78a99a7f"
+    },
+    {
+      "path": "config/litematica/litematica_multiplayer_fallback.json",
+      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
+    },
+    {
+      "path": "config/litematica/litematica_multiplayer_fallback_dim_minecraft_overworld.json",
+      "hash": "1fb16d44a7ac2273a078a7f02033f8b57845bb98"
+    },
+    {
+      "path": "config/litematica/litematica_one.zhizhiwang.us.kg_33334.json",
+      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
+    },
+    {
+      "path": "config/litematica/litematica_one.zhizhiwang.us.kg_33334_dim_minecraft_overworld.json",
+      "hash": "1fb16d44a7ac2273a078a7f02033f8b57845bb98"
+    },
+    {
+      "path": "config/litematica.json",
+      "hash": "38c596fb0e420ff971328d5ccb04b689c92ca82b"
+    },
+    {
+      "path": "config/magiclib.json",
+      "hash": "bece3f8fa5a32f3fc4d2a60303a51285e699a6f5"
+    },
+    {
+      "path": "config/malilib.json",
+      "hash": "38d9e77318ca57d5161d2aa76f26e0263dfa7f0e"
+    },
+    {
+      "path": "config/masa_gadget_mod.json",
+      "hash": "78e8ae2b73f50175a5567b3cbf601c019f889922"
+    },
+    {
+      "path": "config/minihud/multiplayer_fallback.json",
+      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
+    },
+    {
+      "path": "config/minihud/multiplayer_fallback_dim_minecraft_overworld.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+    },
+    {
+      "path": "config/minihud/one.zhizhiwang.us.kg_33334.json",
+      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
+    },
+    {
+      "path": "config/minihud/one.zhizhiwang.us.kg_33334_dim_minecraft_overworld.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+    },
+    {
+      "path": "config/minihud.json",
+      "hash": "02a57ed4cdf970512017f1e24f706e09a732c7d4"
+    },
+    {
+      "path": "config/modernfix-mixins.properties",
+      "hash": "de6401fe0f86bb1dd61175ec92dd61efa847af57"
+    },
+    {
+      "path": "config/modmenu.json",
+      "hash": "7e4d498194b4cfea3ac311623fe09a3fa2927860"
+    },
+    {
+      "path": "config/moonlight-client.json",
+      "hash": "391e077eaf82b652e7dd6017a3c5d97f496db19b"
+    },
+    {
+      "path": "config/MouseTweaks.cfg",
+      "hash": "651b3e4db2d430dc1da3566b2984b264061a6794"
+    },
+    {
+      "path": "config/nbtedit.json",
+      "hash": "86f2c4fef34d9caa91259d605e5c1c7cbd711699"
+    },
+    {
+      "path": "config/railways-client.toml",
+      "hash": "483447a15be1f6b71208d50566949a94dfe79624"
+    },
+    {
+      "path": "config/railways-common.toml",
+      "hash": "ac0d5f8ae59e3e99c69e1764d8381bf20c3286fe"
+    },
+    {
+      "path": "config/replaymod.json",
+      "hash": "6c8d3085ceb2cfec740b2eac3543c8592182be0a"
+    },
+    {
+      "path": "config/sidebar_buttons.json",
+      "hash": "a81c1548124baa5a62cee56b7ddfb77620007ab6"
+    },
+    {
+      "path": "config/sodium-extra-options.json",
+      "hash": "eb4515a9c312a48ca400f31b7776ee7a6d724140"
+    },
+    {
+      "path": "config/sodium-extra.properties",
+      "hash": "e90b2514226a0624cf42112b42477f9872598b89"
+    },
+    {
+      "path": "config/sodium-fingerprint.json",
+      "hash": "a8da7b461eb0341bae91f4e3fbc3f65b09dd3a02"
+    },
+    {
+      "path": "config/sodium-mixins.properties",
+      "hash": "b1fdf3038060accec696177db699276ed074a6d2"
+    },
+    {
+      "path": "config/sodium-options.json",
+      "hash": "ec80b098cc66d77092a0869ad4bed3799972c45d"
+    },
+    {
+      "path": "config/subtitle_highlight.json",
+      "hash": "ab7a635ea214e16771bc4fabff5aa8b8e04de3ac"
+    },
+    {
+      "path": "config/threadtweak.json",
+      "hash": "5c85021a37c081113236571a077bae45b9d9cdb1"
+    },
+    {
+      "path": "config/tweakeroo.json",
+      "hash": "2868a9330cce25a115fbdd567fed846900a05088"
+    },
+    {
+      "path": "config/worldeditcui.config.json",
+      "hash": "223ddfdafe6816fe65f665388c5d8765739ddf73"
+    },
+    {
+      "path": "config/xaerominimap-common.txt",
+      "hash": "9dfa008f15d138e34b337e8e67122ea0364b67c0"
+    },
+    {
+      "path": "config/xaerominimap.txt",
+      "hash": "2dc5f1fbabc14fc3390e52072dd50d68aa23408c"
+    },
+    {
+      "path": "config/xaerominimap_entities.json",
+      "hash": "3523d6db6b0543a9de55286e914bc748f7fc68d9"
+    },
+    {
+      "path": "config/xaeropatreon.txt",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "config/xaeroworldmap-common.txt",
+      "hash": "2654cb878cde3f8a7beaa75750a6ddd094cf8b97"
+    },
+    {
+      "path": "config/xaeroworldmap.txt",
+      "hash": "f9f3473c03a6dd44911db71f46a9bc8598b01e0c"
+    },
+    {
+      "path": "config/yacl.json5",
+      "hash": "ef6eac77bc8ec50971872b820002db7227ece802"
+    },
+    {
+      "path": "config/zoomify.json",
+      "hash": "fb9013aeb5b0e75d0afae7719d822091a0e70892"
+    },
     {
       "path": "hmclversion.cfg",
       "hash": "6f1d9430d356217df8722ee295de3a3528b7bb06"
