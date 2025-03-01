@@ -3,7 +3,7 @@
   "author": "vcmux",
   "version": "1.0",
   "description": "3.3",
-  "fileApi": "https://raw.zhizhiwang.us.kg/zhizhizhiwang/RedStone_Pack/refs/heads/main/RedStonePack/",
+  "fileApi": "https://download.zhizhiwang.us.kg/RedStonePack",
   "files": [
     {
       "path": "hmclversion.cfg",
