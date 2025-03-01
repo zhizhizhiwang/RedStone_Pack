@@ -1,13 +1,13 @@
 {
   "name": "RedStonePack",
   "author": "vcmux",
-  "version": "3.2",
-  "description": "",
-  "fileApi": "https://download.zhizhiwang.us.kg/RedStonePack",
+  "version": "1.0",
+  "description": "3.3",
+  "fileApi": "https://raw.zhizhiwang.us.kg/zhizhizhiwang/RedStone_Pack/refs/heads/main/RedStonePack/",
   "files": [
     {
       "path": "hmclversion.cfg",
-      "hash": "37a3ccffb64719b3a78ae60fac88b0c51617638a"
+      "hash": "1e199c386f8346e39e6f89921e4db47e34fb3ced"
     },
     {
       "path": "log4j2.xml",
@@ -38,40 +38,36 @@
       "hash": "9ab47efbad81fa0f6f72bb395452970250a0c69d"
     },
     {
-      "path": "mods/c2me-fabric-mc1.20.1-0.2.0+alpha.11.13.jar",
-      "hash": "e75325ce06c3e5c48902c04d8f7d8f09feba7136"
+      "path": "mods/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16.jar",
+      "hash": "94d96b5fffd9e98bd8448dcdd9e27f60511b1d29"
     },
     {
       "path": "mods/carpet-extra-1.20-1.4.115.jar",
       "hash": "09f1aeb870393d9ee07d895b5a60c7594a0bddd5"
     },
     {
-      "path": "mods/cc-tweaked-1.20.1-fabric-1.114.2.jar",
-      "hash": "38fec6d326ec81d707911969950a0bd70da577cc"
+      "path": "mods/cc-tweaked-1.20.1-fabric-1.115.0.jar",
+      "hash": "70caa162c9f3cd1f21b6a75dcf1902b455c9af45"
     },
     {
-      "path": "mods/chat_heads-0.13.7-fabric-1.20.jar",
-      "hash": "0a244a278262aea0945f90bf96e4829af83b740b"
+      "path": "mods/chat_heads-0.13.13-fabric-1.20.jar",
+      "hash": "a6aa186a3600ae8f1cb019924d3f7079cb8fbee7"
     },
     {
-      "path": "mods/cicada-lib-0.9.2+1.20.1.jar",
-      "hash": "f803f027d86aa19e4f27b8982b2bbf69c20ca07b"
+      "path": "mods/cicada-lib-0.10.2+1.20.1.jar",
+      "hash": "056832a93f1a12cf69da360bb8b6cc63bf3e7ea9"
     },
     {
       "path": "mods/cloth-config-11.1.136-fabric.jar",
       "hash": "d5fe84a0cc9ed5c7290a76ba570e1f8716afecab"
     },
     {
-      "path": "mods/Configurable-mc1.20.1-v1.3.1.jar",
-      "hash": "7b753921547c6f415b9282a36c37ddd405cefbf7"
-    },
-    {
       "path": "mods/create-fabric-0.5.1-j-build.1631+mc1.20.1.jar",
       "hash": "dbf69b9ed007259a38f058e96ee203329a24859c"
     },
     {
-      "path": "mods/CustomSkinLoader_Fabric-14.21.2.jar",
-      "hash": "b8723b0d5098efac0ad32435dcd02553b803d953"
+      "path": "mods/CustomSkinLoader_Fabric-14.22.jar",
+      "hash": "f4dfe51f2e378b29a5329504a324df4faf6133f0"
     },
     {
       "path": "mods/DistantHorizons-2.2.1-a-1.20.1-forge-fabric.jar",
@@ -82,56 +78,52 @@
       "hash": "2efedb58832380d3a6f6445033b12222aa247f9a"
     },
     {
-      "path": "mods/emi-1.1.18+1.20.1+fabric.jar",
-      "hash": "a3d0e04cc276327287711cea92564671f0bed21d"
+      "path": "mods/emi-1.1.20+1.20.1+fabric.jar",
+      "hash": "b4ceb725727c247626453130e8ef84b6f41e4ebb"
     },
     {
-      "path": "mods/entityculling-fabric-1.7.2-mc1.20.1.jar",
-      "hash": "8c1805e5202a09cb1aa765bf5c77fdfaab76dd49"
+      "path": "mods/entityculling-fabric-1.7.3-mc1.20.1.jar",
+      "hash": "4c3e6d82afd354e7858374e6cc678cf44698188f"
     },
     {
-      "path": "mods/fabric-api-0.92.2+1.20.1.jar",
-      "hash": "625ee015ee426d9b677382a7bb661383d89c0807"
+      "path": "mods/fabric-api-0.92.3+1.20.1.jar",
+      "hash": "4fc46246c5e97514ffc563ca68338cf35d9976d0"
     },
     {
       "path": "mods/fabric-carpet-1.20-1.4.112+v230608.jar",
       "hash": "29faa4d1c22509b67a6d66b2a8c9d3b5aa483b65"
     },
     {
-      "path": "mods/fabric-carpet-23w40a-1.4.120+v231004.jar.disabled",
-      "hash": "a65409f5d1ce0a063480ba6254e3bb924b7c6954"
+      "path": "mods/fabric-language-kotlin-1.13.1+kotlin.2.1.10.jar",
+      "hash": "b28cc99b01aef86d0d6ca3ea7f468512bd0595c4"
     },
     {
-      "path": "mods/fabric-language-kotlin-1.13.0+kotlin.2.1.0.jar",
-      "hash": "e3d4ebcc5aef85967ba622f9631e0897cbcd4e2c"
+      "path": "mods/FarmersDelight-1.20.1-2.3.0+refabricated.jar",
+      "hash": "301ac7ad0fb04171d8d2f37c2d92e2c821e3f0f3"
     },
     {
-      "path": "mods/FarmersDelight-1.20.1-2.2.4+refabricated.jar",
-      "hash": "e288cd8c50236848e46ea381202b7e183a820a77"
+      "path": "mods/ftb-chunks-fabric-2001.3.5.jar",
+      "hash": "2a78c6054fa131841691802fb6e08d4aa0c59a8d"
     },
     {
-      "path": "mods/ftb-chunks-fabric-2001.3.4.jar",
-      "hash": "779ee44d852cf328effced8812c7d7a7373410b7"
+      "path": "mods/ftb-library-fabric-2001.2.9.jar",
+      "hash": "c7813af51352624f56b4604f2e431684f1e2c563"
     },
     {
-      "path": "mods/ftb-library-fabric-2001.2.4.jar",
-      "hash": "0fc4d2c93a18245d6168f1147ef432d1cf22fae6"
+      "path": "mods/ftb-ranks-fabric-2001.1.4.jar",
+      "hash": "2887b53523e9df18991bab7a6baa0d41c6f51fe2"
     },
     {
-      "path": "mods/ftb-ranks-fabric-2001.1.3.jar",
-      "hash": "c81b892633e6df2152566f68093ee74c35c580f4"
-    },
-    {
-      "path": "mods/ftb-teams-fabric-2001.3.0.jar",
-      "hash": "a565eba19816d7ab388901dd92da8c7f4a9448b6"
+      "path": "mods/ftb-teams-fabric-2001.3.1.jar",
+      "hash": "515a933d22c60d0f9c249a6eef02402afc2695ac"
     },
     {
       "path": "mods/ftb-ultimine-fabric-2001.1.5.jar",
       "hash": "4c1470398a892898e49e398358ede3782aecd7a1"
     },
     {
-      "path": "mods/grieflogger-1.1.5-fabric.jar",
-      "hash": "61f0ea15219926774c3fdf20f92956acb4c5279d"
+      "path": "mods/grieflogger-1.2.3-1.20.1-fabric.jar",
+      "hash": "38bcc4a6d2aa485b248cd0126928532a3a654df1"
     },
     {
       "path": "mods/handcrafted-fabric-1.20.1-3.0.6.jar",
@@ -146,28 +138,28 @@
       "hash": "f5abb2ba23df3cda0429ce816588b3483b9d14e5"
     },
     {
-      "path": "mods/ImmediatelyFast-Fabric-1.3.3+1.20.4.jar",
-      "hash": "d2a820b3f4dea1782c3550ee96824c3d4885f2d9"
+      "path": "mods/ImmediatelyFast-Fabric-1.3.5+1.20.4.jar",
+      "hash": "fc0667f17ac01222819dd3f932d9751ba2bf9dad"
     },
     {
       "path": "mods/immersive_paintings-0.6.7+1.20.1-fabric.jar",
       "hash": "c68aedc021ee8b89595de9ebee968ef1bbb29ec4"
     },
     {
-      "path": "mods/indium-1.0.34+mc1.20.1.jar",
-      "hash": "a2de9ba15f155b09626995ad58b0e23803b05fe6"
+      "path": "mods/indium-1.0.36+mc1.20.1.jar",
+      "hash": "d824614e7a173d273167969f427702f51846aca7"
     },
     {
-      "path": "mods/InventoryProfilesNext-fabric-1.20-1.10.11.jar",
-      "hash": "1ef3f84a15a4f7d707383032031e1ea957c21616"
+      "path": "mods/InventoryProfilesNext-fabric-1.20-1.10.12.jar",
+      "hash": "5bb8c32d35f8d845ea908cb005c06d26fe77a091"
     },
     {
       "path": "mods/iris-1.7.5+mc1.20.1.jar",
       "hash": "613d3e28f4c0744a049f2583a25c2f36bd8537d9"
     },
     {
-      "path": "mods/jei-1.20.1-fabric-15.20.0.105.jar",
-      "hash": "363ad32248fffe39139217c47ffaa082d6965a76"
+      "path": "mods/jei-1.20.1-fabric-15.20.0.106.jar",
+      "hash": "dc779e3f78374c56cfba4a7e0ad2d480d08cc20a"
     },
     {
       "path": "mods/libIPN-fabric-1.20-4.0.2.jar",
@@ -178,8 +170,8 @@
       "hash": "68bc88228d567ec0c56dd5d308d51c4cb5eab3ff"
     },
     {
-      "path": "mods/MagicLib-mc1.20.1-fabric-0.8.633-stable.jar",
-      "hash": "d0fbef4bc4a8ff41e1a8025a7ee9e9df586a7ff0"
+      "path": "mods/MagicLib-mc1.20.1-fabric-0.8.662-stable.jar",
+      "hash": "d5742cb6df77f6a3bd8cdd9bd76c64df7f7062c2"
     },
     {
       "path": "mods/malilib-fabric-1.20.1-0.16.3.jar",
@@ -198,20 +190,20 @@
       "hash": "8347b83dd02718cc1b187e5ea83f371e0ac26ab7"
     },
     {
-      "path": "mods/mishanguc-1.4.2-1.20.1.jar",
-      "hash": "ac9de420926e48ef56e83b6fae4f9b6e0270a10b"
+      "path": "mods/mishanguc-1.4.3-1.20.1.jar",
+      "hash": "f6b6606251edce243654e444bb35a5f12f469258"
     },
     {
-      "path": "mods/modernfix-fabric-5.19.6+mc1.20.1.jar",
-      "hash": "f27ee694abc8987ea5a15a6ab8d185d64d7bc216"
+      "path": "mods/modernfix-fabric-5.20.2+mc1.20.1.jar",
+      "hash": "ffe21e6ed0303d23dc8f9e8a3d95a3546d53edca"
     },
     {
       "path": "mods/modmenu-7.2.2.jar",
       "hash": "099c68feeb74887cbbbd8ce9a27c6123804a2c5a"
     },
     {
-      "path": "mods/moonlight-1.20-2.13.36-fabric.jar",
-      "hash": "30922a88779fdd25b22d887fda26a5d8a02d8e1e"
+      "path": "mods/moonlight-1.20-2.13.71-fabric.jar",
+      "hash": "27c22deb89e110d5434f6319c54006e228d04fab"
     },
     {
       "path": "mods/MouseTweaks-fabric-mc1.20-2.26.jar",
@@ -242,6 +234,10 @@
       "hash": "c4293c1483f3b39c1c6c4c69143e8bb2c6e53daf"
     },
     {
+      "path": "mods/sodium-fabric-0.5.12-beta.2+mc1.20.1.jar",
+      "hash": "8f6bdf3c1fe2737f819fd4f186f5d89ad68d2e51"
+    },
+    {
       "path": "mods/Steam_Rails-1.6.9+fabric-mc1.20.1.jar",
       "hash": "d1a6435e683d3cbb70044c78e0cfd38b5076f8fd"
     },
@@ -262,10 +258,6 @@
       "hash": "2a18f5905f9e10c6a3b45388b4401ec135b3b3cf"
     },
     {
-      "path": "mods/watson-fabric-1.15.2+1.20.1.jar.disabled",
-      "hash": "c0639c1a0daa5a24561d22455a9576c28a56a752"
-    },
-    {
       "path": "mods/WorldComment-0.1.2+1.20.1.jar",
       "hash": "d6c4930282ac423e55baabc1a5244f80aec9c43e"
     },
@@ -278,16 +270,16 @@
       "hash": "4fd64cabffe5c2160a175101ed8474faf969e6a6"
     },
     {
-      "path": "mods/XaerosWorldMap_1.39.0_Fabric_1.20.jar",
-      "hash": "a1a8227625b881d0f70a4d1cd494b0568000d4ff"
+      "path": "mods/XaerosWorldMap_1.39.4_Fabric_1.20.jar",
+      "hash": "b66c5cdf86d9cd2159d0aa753c2b92535073ba6f"
     },
     {
-      "path": "mods/Xaeros_Minimap_24.6.1_Fabric_1.20.jar",
-      "hash": "9174ffcf6efe93da397831401771e448f1807d45"
+      "path": "mods/Xaeros_Minimap_25.1.0_Fabric_1.20.jar",
+      "hash": "e8b660cf02686e0274d74111dd201804003f8de9"
     },
     {
-      "path": "mods/YetAnotherConfigLib-3.6.2+1.20.1-fabric.jar",
-      "hash": "fe66c7001dbd3e6d58864ff029f7de37614b605c"
+      "path": "mods/yet_another_config_lib_v3-3.6.3+1.20.1-fabric.jar",
+      "hash": "0850c99421f8a7303c78f95bc341b0fb7a43da11"
     },
     {
       "path": "mods/Zoomify-2.14.2+1.20.1.jar",
@@ -305,7 +297,7 @@
     },
     {
       "id": "fabric",
-      "version": "0.16.9"
+      "version": "0.16.10"
     }
   ]
 }
